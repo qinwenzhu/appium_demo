@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee59c18e-a0c3-4f9a-819d-009d257b32bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/3_baiduMap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/4_lemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/touchAction3_1_lianxuhuadong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/touchAction3_lianxuhuadong.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/touchAction2_duodianchukong.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/touchAction2_duodianchukong.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,40 +16,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/start_app_base_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/3_baiduMap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/touchAction1_huadongjiugongge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-266">
-              <caret line="28" column="32" lean-forward="true" selection-start-line="7" selection-end-line="28" selection-end-column="32" />
-              <folding>
-                <element signature="e#116#144#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="28" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/element_positioning_mode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="21" column="86" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-76">
+              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/touchAction2_duodianchukong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state relative-caret-position="94">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding>
                 <element signature="e#131#135#0" expanded="true" />
               </folding>
@@ -57,61 +55,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/common/__init__.py">
+        <entry file="file://$PROJECT_DIR$/demo/touchAction3_lianxuhuadong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            <state relative-caret-position="160">
+              <caret line="71" selection-start-line="71" selection-end-line="77" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/common/multi_action.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/touchAction3_1_lianxuhuadong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state relative-caret-position="197">
+              <caret line="82" column="29" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
               <folding>
-                <element signature="e#883#894#0" expanded="true" />
+                <element signature="e#264#292#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/element_positioning_mode.py">
+        <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="55">
+              <caret line="670" column="13" selection-start-line="670" selection-start-column="5" selection-end-line="670" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/common/touch_action.py">
+        <entry file="file://$PROJECT_DIR$/demo/4_lemon.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="74" column="11" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="74" selection-end-column="11" />
+            <state relative-caret-position="184">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/1_qianchengdai.py">
+        <entry file="file://$PROJECT_DIR$/demo/3_baiduMap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="38" selection-end-column="69" />
-              <folding>
-                <element signature="e#119#147#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/2_taobao.py">
+        <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/extensions/action_helpers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="-66">
+              <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -128,6 +123,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>capability_dict</find>
+      <find>swipe</find>
     </findStrings>
     <replaceStrings>
       <replace>des_cap</replace>
@@ -162,6 +158,10 @@
         <option value="$PROJECT_DIR$/demo/touchAction1_huadongjiugongge.py" />
         <option value="$PROJECT_DIR$/demo/3_baiduMap.py" />
         <option value="$PROJECT_DIR$/demo/touchAction2_duodianchukong.py" />
+        <option value="$PROJECT_DIR$/demo/element_positioning_mode.py" />
+        <option value="$PROJECT_DIR$/demo/4_lemon.py" />
+        <option value="$PROJECT_DIR$/demo/touchAction3_lianxuhuadong.py" />
+        <option value="$PROJECT_DIR$/demo/touchAction3_1_lianxuhuadong.py" />
       </list>
     </option>
   </component>
@@ -189,6 +189,23 @@
               <item name="appium_demo" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="appium_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="project_name" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appium_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="project_name" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appium_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appium_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="project_name" type="462c0819:PsiDirectoryNode" />
+              <item name="configs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -198,15 +215,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/project_name" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\xiangmu\appium_demo\project_name" />
-      <recent name="D:\xiangmu\appium_demo\utils1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\xiangmu\appium_demo\demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xiangmu\appium_demo\demo" />
+      <recent name="D:\xiangmu\appium_demo\project_name" />
+      <recent name="D:\xiangmu\appium_demo\utils1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.touchAction2_duodianchukong">
+  <component name="RunManager" selected="Python.touchAction3_1_lianxuhuadong">
     <configuration name="3_baiduMap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="appium_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,49 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="appium_demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="path" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="appium_demo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_name/pages/classes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\xiangmu\appium_demo\project_name\common\path.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="touchAction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_lemon" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="appium_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,7 +273,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\xiangmu\appium_demo\demo\touchAction1_huadongjiugongge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/4_lemon.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,13 +303,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="touchAction3_1_lianxuhuadong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/touchAction3_1_lianxuhuadong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="touchAction3_lianxuhuadong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="appium_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/touchAction3_lianxuhuadong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.touchAction3_1_lianxuhuadong" />
+        <item itemvalue="Python.touchAction3_lianxuhuadong" />
+        <item itemvalue="Python.4_lemon" />
         <item itemvalue="Python.touchAction2_duodianchukong" />
         <item itemvalue="Python.3_baiduMap" />
-        <item itemvalue="Python.touchAction" />
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.path" />
       </list>
     </recent_temporary>
   </component>
@@ -365,24 +383,40 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12787926" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21604449" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19005328" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4858156" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3250444" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2895204" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26287743" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.20426288" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo/touchAction3_1_lianxuhuadong.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo/touchAction3_1_lianxuhuadong.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/extensions/search_context/mobile.py">
@@ -403,13 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="148" column="37" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="547" column="8" selection-start-line="547" selection-start-column="8" selection-end-line="547" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -466,20 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/common/touch_action.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="74" column="11" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="74" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -503,30 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/element_positioning_mode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/touchAction1_huadongjiugongge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="7" selection-end-line="28" selection-end-column="32" />
-          <folding>
-            <element signature="e#116#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/3_baiduMap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/common/multi_action.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
@@ -544,19 +533,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_name/common/path.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/common/touch_action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <element signature="e#1016#1027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo/start_app_base_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
+        <state relative-caret-position="227">
           <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/touchAction1_huadongjiugongge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/3_baiduMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/appium/webdriver/extensions/action_helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/touchAction2_duodianchukong.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="94">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
           <folding>
             <element signature="e#131#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/4_lemon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/element_positioning_mode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="21" column="86" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/touchAction3_lianxuhuadong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="71" selection-start-line="71" selection-end-line="77" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="670" column="13" selection-start-line="670" selection-start-column="5" selection-end-line="670" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/touchAction3_1_lianxuhuadong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="82" column="29" selection-start-line="82" selection-start-column="29" selection-end-line="82" selection-end-column="29" />
+          <folding>
+            <element signature="e#264#292#0" expanded="true" />
           </folding>
         </state>
       </provider>
